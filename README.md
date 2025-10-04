@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  A passionate Flutter Developer from Syria 🇸🇾 <br/>
+  A passionate Flutter Developer <br/>
   Building high-performance, scalable mobile apps with Clean Architecture 🚀
 </h3>
 
@@ -34,6 +34,7 @@
 <hr>
 
 ## 🛠️ Skills & Tools
+
 <br>
 
 <p align="center">
@@ -41,7 +42,7 @@
   <img src="https://skillicons.dev/icons?i=java,kotlin,git,firebase,android,ios" />
 </p>
 
-<hr>
+<br>  <!-- Empty line -->
 
 <p align="center">
   <!-- Concepts / Practices -->
