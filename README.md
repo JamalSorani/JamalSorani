@@ -34,13 +34,16 @@
 <hr>
 
 ## 🛠️ Skills & Tools
-
 <br>
 
 <p align="center">
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,kotlin,git,firebase,android,ios" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,git,firebase,android,ios" />
+</p>
+
 <hr>
+
+<p align="center">
   <!-- Concepts / Practices -->
   <img src="https://img.shields.io/badge/Clean%20Architecture-42A5F5?style=for-the-badge&logo=architecture&logoColor=white" />
   <img src="https://img.shields.io/badge/Problem%20Solving-FF9800?style=for-the-badge&logo=brain&logoColor=white" />
@@ -49,5 +52,7 @@
   <img src="https://img.shields.io/badge/Testing-E91E63?style=for-the-badge&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/High%20Research%20Skill-9C27B0?style=for-the-badge&logo=google&logoColor=white" />
 </p>
+
 <hr>
+
 
