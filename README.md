@@ -42,7 +42,8 @@
   <img src="https://skillicons.dev/icons?i=java,kotlin,git,firebase,android,ios" />
 </p>
 
-<br>  <!-- Empty line -->
+<!-- Thin separator line -->
+<hr style="border: 1px solid #ccc; width: 50%; margin: 20px auto;">
 
 <p align="center">
   <!-- Concepts / Practices -->
