@@ -40,7 +40,7 @@
 <p align="center">
   <!-- Programming Languages -->
   <img src="https://skillicons.dev/icons?i=flutter,dart,java,kotlin,git,firebase,android,ios" />
-
+<hr>
   <!-- Concepts / Practices -->
   <img src="https://img.shields.io/badge/Clean%20Architecture-42A5F5?style=for-the-badge&logo=architecture&logoColor=white" />
   <img src="https://img.shields.io/badge/Problem%20Solving-FF9800?style=for-the-badge&logo=brain&logoColor=white" />
