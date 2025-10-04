@@ -59,7 +59,9 @@
 
 - **Be The Best** – A mobile app for [Be The Best](https://play.google.com/store/apps/details?id=com.elkood.be_the_best)  
   [![Google Play](https://img.shields.io/badge/Google%20Play-4285F4?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.elkood.be_the_best)
-  [![App Store](https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/sa/app/be-the-best/id6744578616?uo=2)
+  <a href="https://apps.apple.com/sa/app/be-the-best/id6744578616?uo=2" target="_blank">
+    <img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white" style="border:2px solid #ccc; border-radius:5px;" />
+  </a>
 
 - **Royal Button POS** – A POS system app for Android [Royal Button POS](https://play.google.com/store/apps/details?id=com.elkood.royalbutton)  
   [![Google Play](https://img.shields.io/badge/Google%20Play-4285F4?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.elkood.royalbutton)
