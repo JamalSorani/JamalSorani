@@ -1,3 +1,4 @@
+<img src="https://github.com/JamalSorani/JamalSorani/blob/main/flutter.gif" >
 <!-- 👋 Animated Greeting -->
 
 <h1 align="center">
@@ -69,6 +70,9 @@
 
 - **Flutter Easy Swagger Generator** – Generates Clean Architecture code from Swagger/OpenAPI specs  
   [![Pub.dev](https://img.shields.io/badge/Pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/packages/flutter_easy_swagger_generator)
+
+
+![Snake animation](https://github.com/JamalSorani/JamalSorani/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
