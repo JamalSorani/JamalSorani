@@ -39,8 +39,9 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,java,kotlin,git,firebase,android,ios" />
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,kotlin,git,firebase" />
+</div>
 <p align="center">
   <!-- Concepts / Practices -->
   <img src="https://img.shields.io/badge/Clean%20Architecture-42A5F5?style=for-the-badge&logo=architecture&logoColor=white" />
