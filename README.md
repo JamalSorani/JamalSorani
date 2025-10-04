@@ -4,6 +4,6 @@
 </h1>
 
 <h3 align="center">
-  A passionate Flutter Developer from <br/>
+  A passionate Flutter Developer<br/>
   Building high-performance, scalable mobile apps with Clean Architecture 🚀
 </h3>
