@@ -1,12 +1,8 @@
 <!-- 👋 Animated Greeting -->
-<!--
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=45&center=true&vCenter=true&width=600&height=70&color=42A5F5&duration=4000&lines=Hi+There!+👋;+I'm+Jamal+Sorani!;+Flutter+Developer+💙;" />
 </h1>
--->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
 
 <h3 align="center">
   A passionate Flutter Developer <br/>
