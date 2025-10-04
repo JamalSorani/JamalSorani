@@ -72,7 +72,7 @@
   [![Pub.dev](https://img.shields.io/badge/Pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/packages/flutter_easy_swagger_generator)
 
 
-![Snake animation](https://github.com/JamalSorani/JamalSorani/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JamalSorani/JamalSorani/blob/main/github-contribution-grid-snake.svg)
 
 
 <!--
