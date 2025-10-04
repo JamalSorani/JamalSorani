@@ -70,7 +70,7 @@
   [![Pub.dev](https://img.shields.io/badge/Pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/packages/flutter_easy_swagger_generator)
 
 
-<!--
+
 ## 🐍 My Contributions
 
 <div align="center">
@@ -82,6 +82,5 @@
 </div>
 
 <hr>
--->
 
 
