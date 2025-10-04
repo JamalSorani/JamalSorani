@@ -1,4 +1,4 @@
-<img src="https://github.com/JamalSorani/JamalSorani/blob/main/flutter.gif" >
+<img src="https://github.com/JamalSorani/JamalSorani/blob/output/flutter.gif" >
 <!-- 👋 Animated Greeting -->
 
 <h1 align="center">
