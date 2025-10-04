@@ -16,7 +16,7 @@
 
 <br>
 
-<div align="center">
+<div align="start">
     <a href="https://linkedin.com/in/jamal-sorani-5b5093388" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
