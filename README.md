@@ -42,9 +42,6 @@
   <img src="https://skillicons.dev/icons?i=java,kotlin,git,firebase,android,ios" />
 </p>
 
-<!-- Thin separator line -->
-<hr style="border: 1px solid #ccc; width: 50%; margin: 20px auto;">
-
 <p align="center">
   <!-- Concepts / Practices -->
   <img src="https://img.shields.io/badge/Clean%20Architecture-42A5F5?style=for-the-badge&logo=architecture&logoColor=white" />
