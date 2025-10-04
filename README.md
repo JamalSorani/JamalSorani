@@ -16,7 +16,7 @@
 
 <br>
 
-<div align="start">
+<div align="center">
     <a href="https://linkedin.com/in/jamal-sorani-5b5093388" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -39,9 +39,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,kotlin,git,firebase,android,ios" />
-</div>
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,kotlin,git,firebase,android,ios" />
 
 <p align="center">
   <!-- Concepts / Practices -->
