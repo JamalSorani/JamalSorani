@@ -40,7 +40,7 @@
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,kotlin,git,firebase" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,kotlin,git,firebase,android" />
 </div>
 <p align="center">
   <!-- Concepts / Practices -->
