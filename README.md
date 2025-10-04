@@ -70,5 +70,18 @@
   [![Pub.dev](https://img.shields.io/badge/Pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/packages/flutter_easy_swagger_generator)
 
 
+<!--
+## 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JamalSorani/JamalSorani/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JamalSorani/JamalSorani/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/JamalSorani/JamalSorani/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<hr>
+-->
 
 
