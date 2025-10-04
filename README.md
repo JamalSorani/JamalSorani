@@ -41,7 +41,7 @@
 
 <p align="center">
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=java,kotlin,git,firebase,android,ios" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,kotlin,git,firebase,android,ios" />
 </p>
 
 <p align="center">
