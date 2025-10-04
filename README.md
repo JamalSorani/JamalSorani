@@ -39,10 +39,9 @@
 
 <br>
 
-<p align="center">
-  <!-- Programming Languages -->
+<div align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,java,kotlin,git,firebase,android,ios" />
-</p>
+</div>
 
 <p align="center">
   <!-- Concepts / Practices -->
