@@ -59,11 +59,11 @@
 
 - **Be The Best** – A mobile app for [Be The Best](https://play.google.com/store/apps/details?id=com.elkood.be_the_best)  
   [![Google Play](https://img.shields.io/badge/Google%20Play-4285F4?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.elkood.be_the_best)
+  [![App Store](https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/sa/app/be-the-best/id6744578616?uo=2)
 
 - **Royal Button POS** – A POS system app for Android [Royal Button POS](https://play.google.com/store/apps/details?id=com.elkood.royalbutton)  
   [![Google Play](https://img.shields.io/badge/Google%20Play-4285F4?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.elkood.royalbutton)
 
 - **Flutter Easy Swagger Generator** – Generates Clean Architecture code from Swagger/OpenAPI specs  
   [![Pub.dev](https://img.shields.io/badge/Pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/packages/flutter_easy_swagger_generator)
-
 
